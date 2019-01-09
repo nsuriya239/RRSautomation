@@ -75,7 +75,7 @@
 					<suiteXmlFiles>
 						<suiteXmlFile>Fulltest.xml</suiteXmlFile>
 					</suiteXmlFiles>
-					<testFailureIgnore>true</testFailureIgnore>
+					<skipAfterFailureCount>47</skipAfterFailureCount>
 				</configuration>
 			</plugin>
 		</plugins>
