@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testcases.Sheet2_QuantityDropdown"/>
+      <class name="testcases.Sheet2_AddtoCart"/>
+      <class name="testcases.SearchaModel"/>
+      <class name="testcases.Sheet2_SearchwithKeyWords"/>
+      <class name="testcases.Gift"/>
+      <class name="testcases.Sheet2_ChooseColorandtheVariantChanges"/>
+      <class name="testcases.Sheet2_Logout"/>
+      <class name="testcases.Sheet2_ClickingShopnowLink"/>
+      <class name="testcases.Sheet3_SmartGift_NavigationofSmartGiftLink"/>
+      <class name="testcases.Sheet2_SizechartAvailable"/>
+      <class name="testcases.Sheet2_YouMayAlsoLikeTab"/>
+      <class name="testcases.Sheet2_PaywithGiftCard"/>
+      <class name="testcases.Sheet2_Order_LoginFlow"/>
+      <class name="testcases.Sheet2_CouponCode"/>
+      <class name="testcases.Sheet2_Chooseasize"/>
+      <class name="testcases.Sheet2_Incorrect_AddtoCart"/>
+      <class name="testcases.Sheet2_LoginwithInvalidPassword"/>
+      <class name="testcases.Sheet2_VisibilityofItemID"/>
+      <class name="testcases.Sheet2_SearchaBrand"/>
+      <class name="testcases.Sheet3_SitePersonalisation_PreviousshorepurchaseandNextModel"/>
+      <class name="testcases.SearchaBrand"/>
+      <class name="testcases.Sheet2_Orders_GuestFlow"/>
+      <class name="testcases.DemoCase2_loginflow"/>
+      <class name="testcases.Sheet2_EditingPageNumber"/>
+      <class name="testcases.LaunchTheUrl"/>
+      <class name="testcases.Sheet2_SearchaModel"/>
+      <class name="testcases.SearchwithKeyWords"/>
+      <class name="testcases.Sheet2_FitFinder"/>
+      <class name="testcases.Sheet2_ClickaProduct"/>
+      <class name="testcases.Sheet2_ClickingNextbutton"/>
+      <class name="testcases.Sheet2_LoginFlow"/>
+      <class name="testcases.Sheet3_SmartGift_Errormessage_when_sizecolor_not_chosen"/>
+      <class name="testcases.AddtwoProductstoCart"/>
+      <class name="testcases.Sheet2_ChooseaColor"/>
+      <class name="testcases.Sheet3_SmartGift_VerifySmartGiftOption"/>
+      <class name="testcases.Sheet2_SocialmediaLink"/>
+      <class name="testcases.Sheet2_VerifyMSRPandVIPprice"/>
+      <class name="testcases.Sheet2_ClickingSortBy"/>
+      <class name="testcases.Sheet3_SmartGift_CompleteFlow"/>
+      <class name="testcases.SearchWithInvalidKeyword"/>
+      <class name="testcases.Sheet2_Reviewstab"/>
+      <class name="testcases.Sheet2_VisibilityofGetthisPriceLink"/>
+      <class name="testcases.Sheet2_SearchWithInvalidKeyword"/>
+      <class name="testcases.Sheet2_CreateanAccount"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
